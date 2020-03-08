@@ -69,15 +69,14 @@ The following screenshots is the result of our project:
 
 
 
-![ERODE_dilated3](https://user-images.githubusercontent.com/55000923/76172705-c8f78300-6155-11ea-95f0-e05044c7176b.png)
+
+![ERODE2](https://user-images.githubusercontent.com/55000923/76172794-897d6680-6156-11ea-851c-0af805d9114f.png)
+
 
 
 
 ![ERODE4](https://user-images.githubusercontent.com/55000923/76172714-da408f80-6155-11ea-8a39-9b88d41fbf2d.png)
 
-
-
-![masked251](https://user-images.githubusercontent.com/55000923/76172718-e2003400-6155-11ea-8470-549db6e807d7.png)
  
  
  
