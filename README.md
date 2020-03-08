@@ -1,4 +1,4 @@
-# Intel OpenVINO Project Showcase Traffic Engineering
+# Traffic Engineering For Measuring Traffic Count Using OpenCV
 
 This project is one of our attempt to solve the global Traffic Issues and also the road occupancy of vehicles.
 Traffic Engineering For Measuring Traffic Count Using Python and OpenCV
