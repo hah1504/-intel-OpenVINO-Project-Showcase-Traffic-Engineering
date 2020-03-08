@@ -82,11 +82,13 @@ The following screenshots is the result of our project:
  
 ### Prerequisites
 
-Software: Windows or Linux operating system
+Software:   
+
+• Windows or Linux operating system
 
 Hardware includes
 
-•	Intel 6th Generation and above Generation based processors
+•	Intel 6th Generation and above Generation based processors  
 •	Minimum 8 GB RAM
 
 ### TOOLS
