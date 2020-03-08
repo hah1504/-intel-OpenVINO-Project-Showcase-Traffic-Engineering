@@ -6,7 +6,9 @@ Traffic Engineering For Measuring Traffic Count Using Python and OpenCV
 ## Abstract
 
 The Project is about detecting the road occupancy from using Python and OpenCV The Traffic Control has been one of the most prominent global issues. Some of the problems were measuring traffic size and road occupancy. To solve this problem, the concept of smart traffic control system was introduced. Smart traffic control system, as the name suggests, is about applying the concepts of artificial intelligence (Edge based, Cloud based or hybrid) and using sensors and camera to improve the efficiency of the traffic control with little human intervention required. Our project focuses on delivering such a system by enabling dynamic control of the traffic signal based on the number of cars moving. 
- 
+
+![central idea](https://user-images.githubusercontent.com/55000923/76172472-a06e8980-6153-11ea-9624-eab6c662c2de.png)
+
 
 ## CORE CONCEPTS
 
